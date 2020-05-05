@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AngularPrograms/EmployeeManage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AngularPrograms/FirstProgram" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AngularPrograms/HackerNew" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AngularPrograms/HackerNews" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AngularPrograms/NameCart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AngularPrograms/PractiseAngular" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AngularPrograms/ProgressBar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AngularPrograms/SharingDataBetWeenComponents" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AngularPrograms/SharingDataBetWeenComponents/SharingWithInput" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AngularPrograms/SharingDataBetWeenComponents/SharingWithOutput" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AngularPrograms/SharingDataBetWeenComponentsInputOutPut/SharingWithInput" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AngularPrograms/SharingDataBetWeenComponentsInputOutPut/SharingWithOutput" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ProgressBar" vcs="Git" />
+  </component>
+</project>
